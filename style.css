@@ -1,0 +1,32 @@
+/* CSS for title */
+.title {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+/* CSS for upload buttons */
+.upload {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* CSS for predict button */
+.predict {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* CSS for images */
+.images {
+    display: flex;
+    justify-content: center;
+}
+
+/* CSS for segmented image */
+.segmented-image {
+    display: flex;
+    justify-content: center;
+}
